@@ -2,7 +2,8 @@
 ### Eu sou Barbara Castro.
 
 - 🔭 Trabalho com front-end.
-- 🌱 Estudando VueJs.
+- 🌱 Estudando React e VueJs.
+
 
  ##
  
