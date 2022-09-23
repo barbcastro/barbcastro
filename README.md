@@ -9,6 +9,8 @@
  
   <div>
     <a href="https://www.linkedin.com/in/barbara-castro-61348b207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://barbcastro.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-green" target="_blank"></a>
+    <a href= "https://barbcastro.github.io/portfolio/" target= "_blank"><img scr= "https://img.shields.io/badge/-Portf%C3%B3lio-green" target="_black"></a>
   </div>
   
 ##
