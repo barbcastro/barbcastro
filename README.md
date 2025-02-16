@@ -1,8 +1,8 @@
 ### Olá!!👋
 ### Eu sou Barbara Castro.
 
-- 🔭 Trabalho com front-end.
-- 🌱 Estudando React.
+- 🔭 Trabalho como Analista de Dados.
+- 🌱 Estudando Python.
 
 
  ##
